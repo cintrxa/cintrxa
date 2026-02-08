@@ -4,7 +4,7 @@
 💻 Foco em Back-end e lógica de programação  
 🚀 Em busca do primeiro estágio em tecnologia  
 
---
+—
 
 ## 🛠️ Tecnologias
 - Git & GitHub
