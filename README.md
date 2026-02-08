@@ -15,3 +15,4 @@
 
 ## 📌 Objetivo
 Construir uma base sólida em programação e ingressar em uma empresa de tecnologia de grande porte.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true)
