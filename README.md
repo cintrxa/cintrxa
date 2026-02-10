@@ -18,9 +18,7 @@
 
 ## 📊 GitHub Stats
 
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintrxa&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=cintrxa)
 
 --
 
