@@ -1,17 +1,21 @@
-# Matheus Cintra 👋
+## Matheus Cintra 👋
 
 🎓 Estudante de Engenharia de Software (FIAP)  
 💻 Foco em Back-end e lógica de programação  
 🚀 Em busca do primeiro estágio em tecnologia  
 
-—
+--
 
-## 🛠️ Tecnologias
-- Git & GitHub
+## 🛠️ Tecnologias e Conhecimentos
+
+- JavaScript
+- Node.js (Express)
 - Lógica de Programação
-- (em breve) Java / Python / Node.js
+- Git & GitHub
+- APIs REST (em desenvolvimento)
 
 —
 
-## 📌 Objetivo
-Construir uma base sólida em programação e ingressar em uma empresa de tecnologia de grande porte.
+## 🎯 Objetivo
+
+Construir uma base sólida em desenvolvimento back-end, aplicando boas práticas de programação e arquitetura, com foco em ingressar em uma empresa de tecnologia de grande porte.
