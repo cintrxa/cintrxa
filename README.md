@@ -20,12 +20,6 @@
 
 --
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true&theme=tokyonight)
-
---
-
 ## 🎯 Objetivo
 
 Construir uma base sólida em desenvolvimento back-end, aplicando boas práticas de programação e arquitetura, com foco em ingressar em uma empresa de tecnologia de grande porte.
