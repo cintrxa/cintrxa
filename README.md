@@ -13,12 +13,15 @@
 - Lógica de Programação
 - Git & GitHub
 - APIs REST (em desenvolvimento)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![Status](https://img.shields.io/badge/Status-Estudante%20FIAP-blue)
 
 --
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cintrxa)
+<img src=“https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true&theme=tokyonight” />
 
 --
 
