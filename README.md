@@ -10,11 +10,12 @@
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-- JavaScript
-- Node.js (Express)
-- Lógica de Programação
+- JavaScript (ES6+)
+- Node.js
+- Express
+- SQLite
 - Git & GitHub
-- APIs REST (em desenvolvimento)
+- APIs REST
 
 ## 🎯 Objetivo
 
