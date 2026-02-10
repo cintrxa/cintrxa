@@ -17,7 +17,7 @@
 - Git & GitHub
 - APIs REST
 
-## 🎯 Objetivo
+## 📌 Projeto em Destaque
 🔹 API REST com Node.js e SQLite
 API RESTful com CRUD completo de usuários, validações de entrada, separação de responsabilidades e tratamento global de erros.
 ➡️ Repositório: https://github.com/cintrxa/api-rest-node
