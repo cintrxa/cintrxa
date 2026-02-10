@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<img src=“https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true&theme=tokyonight” />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cintrxa&show_icons=true&theme=tokyonight)
 
 --
 
