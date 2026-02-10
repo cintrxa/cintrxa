@@ -8,8 +8,6 @@
 💻 Foco em Back-end e lógica de programação  
 🚀 Em busca do primeiro estágio em tecnologia  
 
---
-
 ## 🛠️ Tecnologias e Conhecimentos
 
 - JavaScript
@@ -17,8 +15,6 @@
 - Lógica de Programação
 - Git & GitHub
 - APIs REST (em desenvolvimento)
-
---
 
 ## 🎯 Objetivo
 
