@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Estudante%20FIAP-blue)
 
 🎓 Estudante de Engenharia de Software (FIAP)  
-💻 Foco em Back-end e lógica de programação  
+💻 Foco em Back-end
 
 ## 🛠️ Tecnologias e Conhecimentos
 
