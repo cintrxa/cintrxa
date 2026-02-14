@@ -6,7 +6,6 @@
 
 🎓 Estudante de Engenharia de Software (FIAP)  
 💻 Foco em Back-end e lógica de programação  
-🚀 Em busca do primeiro estágio em tecnologia  
 
 ## 🛠️ Tecnologias e Conhecimentos
 
