@@ -1,7 +1,5 @@
 ## Matheus Cintra 👋
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![Status](https://img.shields.io/badge/Status-Estudante%20FIAP-blue)
 
 🎓 Estudante de Engenharia de Software (FIAP)  
