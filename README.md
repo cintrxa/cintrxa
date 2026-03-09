@@ -9,7 +9,8 @@
 
 ## 🛠️ Tecnologias e Conhecimentos
 
-- JavaScript (ES6+)
+- Python
+- JavaScript
 - Node.js
 - Express
 - SQLite
